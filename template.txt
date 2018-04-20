@@ -1,0 +1,6 @@
+file-name|B-start-time|sample-rate|northing|easting
+
+see example below
+
+C4_1.sac|1.600000e+04|5.000000e-03|3627641.00|599499.00
+R1_1.sac|1.572600e+04|5.000000e-03|3627706.00|599464.00
